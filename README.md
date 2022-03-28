@@ -1,28 +1,28 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Title-Info
-> This is a template for react based projects with linters, package.json and readme setup.
+> This is a Todo list project with react-redux. Here I can add item and delete item individualy and all.
 
 # GIF/Screenshot
-![]
+![](pic-1.png)
 
 ## Built With
 - React
+- Redux
+- Hooks
 
 ## Live Demo
-For the link to the live demo, [Click here]()
+For the link to the live demo, [Click here](https://melodious-puppy-5efb64.netlify.app/)
 
 ## Getting Started
 To get a local copy up and running you just need to follow the following steps;
 - Clone this repository with
-git clone `https://github.com/Tufahel/react-template-microverse.git` using your terminal or command line.
+git clone `https://github.com/Tufahel/react-redux-todo.git` using your terminal or command line.
 - run code `.` to open it in vscode.
-- run `npm update --save` in terminal.
+- run `npm save` in terminal.
 - run `npm run build`.
 - run `npm start`.
 
-## Note
-- Remember to check the version of react `file: package.json, line: 9`. Though it doesn't change so often so it's just a suggestion.
 
 ## Authors
 
@@ -44,9 +44,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thapa Technical Youtube Channel
 
 ## 📝 License
 
